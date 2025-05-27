@@ -4,5 +4,5 @@ A collection of my most used prompts
 ## Prompts
 System chat response
 
-### Contributing 
+## Contributing 
 Please add any prompts that you find useful.
