@@ -2,7 +2,8 @@
 A collection of my most used prompts
 
 ## Prompts
-System chat response
+System Chat Prompt
+Google Notebook LM Prompt
 
 ## Contributing 
 Please add any prompts that you find useful.
