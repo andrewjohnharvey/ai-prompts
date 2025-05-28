@@ -1,4 +1,4 @@
-# ai-prompts
+# AI Prompts
 A collection of my most used prompts
 
 ## Prompts
